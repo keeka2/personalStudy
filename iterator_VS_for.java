@@ -6,6 +6,7 @@ import java.util.List;
 
 public class iterator_VS_for {
 	//iterator : 순차적조회 방법 자체를 숨길수가 있다, 반복이 발생하는 방식의 내부 구조를 캡슐화
+	//속도차이는 거의 없음
 
 	public static void main(String[] args) {
 		List<Integer> list = new ArrayList<Integer>();
