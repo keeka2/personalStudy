@@ -50,3 +50,9 @@ public class ThreadSynchronize {
 		 ex2.start();
 	}
 }
+
+//res
+a : 1000
+b : 2000
+a : 1001
+b : 1047
